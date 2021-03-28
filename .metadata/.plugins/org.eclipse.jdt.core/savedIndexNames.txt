@@ -1,0 +1,10 @@
+INDEX VERSION 1.131+/home/leticia/Área de Trabalho/javaPuc/.metadata/.plugins/org.eclipse.jdt.core
+1808566966.index
+3608868991.index
+1500383239.index
+3617492406.index
+527809198.index
+149463126.index
+3621851108.index
+778319.index
+871155974.index

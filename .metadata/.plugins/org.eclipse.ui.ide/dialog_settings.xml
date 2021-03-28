@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="/home/leticia/Área de Trabalho/javaPuc/atividade1"/>
+			<item value="/home/leticia/Área de Trabalho/javaPuc/AtividadeAeds"/>
+			<item value="/home/leticia/Área de Trabalho/javaPuc/ExVetor"/>
+			<item value="/home/leticia/Área de Trabalho/javaPuc/languageServers-log"/>
+			<item value="/home/leticia/Área de Trabalho/javaPuc/lista5Atividade1"/>
+			<item value="/home/leticia/Área de Trabalho/javaPuc/Lista5Poo"/>
+			<item value="/home/leticia/Área de Trabalho/javaPuc/LISTA5poo"/>
+			<item value="/home/leticia/Área de Trabalho/javaPuc/ListaPart1Poo14-3"/>
+			<item value="/home/leticia/Área de Trabalho/javaPuc/ListaPart2Poo14-3"/>
+			<item value="/home/leticia/Área de Trabalho/javaPuc/ListaPoo4"/>
+		</list>
+	</section>
+</section>
